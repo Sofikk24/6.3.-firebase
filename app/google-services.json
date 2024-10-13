@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438549709559",
+    "project_id": "yarikbibioff300899",
+    "storage_bucket": "yarikbibioff300899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438549709559:android:1c2ec9043469ceae8749f2",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4RIvQmROnjREtoKwUR1bJc_WTG8o3dWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
